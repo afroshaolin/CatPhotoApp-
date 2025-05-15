@@ -1,5 +1,3 @@
-** start of index.html **
-
 <!DOCTYPE html>
 
 <html lang="en">
@@ -21,12 +19,11 @@
     <p>Travel royalty style with detailed to the tee traveling plans that meet your budget, to the most epic dream destinations in the world while rewarding your Wanderlust</p>
  <section>
     <h2>Packages</h2>
-    <p><strong>Private Tours</strong> are an exclusive once in a lifetime for those with an insatiable desire to travel. Our Private Tours includea Trip to 7 destinations to one of the most breathtaking, adrenaline pumping, heart racing adventures known to man. Your travel can be tailored to suit your travel experience to every minute detail.<br>
-      <strong>Group Travels</strong> enjoy an affordable planned, educational and entertaining group tour to anywhere in the world. We liaise with other top travel agencies to giving the most comprehensive travel plan at affordable group discounts.<br>
+    <p><strong>Private Tours</strong> are an exclusive once in a lifetime for those with an insatiable desire to travel. Our Private Tours includea Trip to 7 destinations to one of the most breathtaking, adrenaline pumping, heart racing adventures known to man. Your travel can be tailored to suit your travel experience to every minute detail.<br></p>
+     <p> <strong>Group Travels</strong> enjoy an affordable planned, educational and entertaining group tour to anywhere in the world. We liaise with other top travel agencies to giving the most comprehensive travel plan at affordable group discounts.</p><br>
   
     Every destination covers city and country living to really get you tuned with the culture and lifestyle of every terrain travelled for a satisfied traveling experience.
 </p>
-
     <ul>
     <li> <a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</li></a>
     <li> <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</li></a>
@@ -46,6 +43,3 @@
     </figure>
 </body>
 </html>
-
-** end of index.html **
-
