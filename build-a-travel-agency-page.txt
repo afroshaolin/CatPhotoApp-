@@ -1,0 +1,51 @@
+** start of index.html **
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Travel Agency Page</title>
+    <meta property="og:Gardens" content="website"/>
+    <meta name="description" content=" Travel kingstyle no matter your budget, we always make it work"/>
+    <meta name="Travel Agency" description="Our customers are king"/>
+    <meta content="www.gardensRus.com" property="og:title"/>
+    <meta content="Image" property="og:image"/>
+  </head>
+  <body>
+    <title>Travel the 7 Tours</title>
+    <img src="https://t4.ftcdn.net/jpg/00/65/48/25/240_F_65482539_C0ZozE5gUjCafz7Xq98WB4dW6LAhqKfs.jpg" alt="Worldview map showing the most famous tourist attractions"/>
+     <figcaption> <em>Seven7 Destination</em> WorldWide Travel </figcaption>
+    </figure>
+  <h1>One Trip 7 Destinations</h1>
+    <p>Travel royalty style with detailed to the tee traveling plans that meet your budget, to the most epic dream destinations in the world while rewarding your Wanderlust</p>
+ <section>
+    <h2>Packages</h2>
+    <p><strong>Private Tours</strong> are an exclusive once in a lifetime for those with an insatiable desire to travel. Our Private Tours includea Trip to 7 destinations to one of the most breathtaking, adrenaline pumping, heart racing adventures known to man. Your travel can be tailored to suit your travel experience to every minute detail.<br>
+      <strong>Group Travels</strong> enjoy an affordable planned, educational and entertaining group tour to anywhere in the world. We liaise with other top travel agencies to giving the most comprehensive travel plan at affordable group discounts.<br>
+  
+    Every destination covers city and country living to really get you tuned with the culture and lifestyle of every terrain travelled for a satisfied traveling experience.
+</p>
+
+    <ul>
+    <li> <a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</li></a>
+    <li> <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</li></a>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure>
+     <a href="https://www.freecodecamp.org/learn" target="_blank"> <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Roman Coliseum at dusk light"/>
+     <figcaption><em>Rome</em> Coliseum</a> </figcaption>
+    </figure>
+    <figure>
+     <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://www.nychummingbird.com/wp-content/uploads/2022/12/statue-of-liberty-at-night-1024x677.png" alt="Statue of Liberty in New York at night"/>
+     <figcaption><em>Lady</em> Liberty</a></figcaption>
+    </figure>
+    <figure>
+     <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://blog.flightsite.co.za/wp-content/uploads/2014/04/jesus-christ-the-redeemer-statue-of-rio-brazil-top-travel-lists-126389.jpg" alt="Backside overview of the Jesus Christ the redeemer statute in Rio de Janeiro, Brazil"/>
+     <figcaption><em>Rio de Janeiro</em></a> </figcaption>
+    </figure>
+</body>
+</html>
+
+** end of index.html **
+
